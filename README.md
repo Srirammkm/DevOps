@@ -1,1 +1,1 @@
-# DevOpsTraining
+# DevOps
