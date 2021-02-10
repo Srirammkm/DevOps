@@ -1,1 +1,1 @@
-# DevOps
+Python app for DevOps Training
